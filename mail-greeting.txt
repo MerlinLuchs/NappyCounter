@@ -1,0 +1,5 @@
+Hello parent,
+
+Here are you nappy stats for today!
+
+=================================
